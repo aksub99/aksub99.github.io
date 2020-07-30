@@ -1,0 +1,4 @@
+Akshay is an undergraduate student of Materials Engineering at the Indian Institute of Technology Roorkee.
+He is interested in applying Machine Learning techniques to Materials Science, Chemistry and Drug Discovery. He is currently
+interning with Ceder Group in Lawrence Berkeley National Laboratory where he is working on applying deep learning
+and text mining techniques to Materials Science Literature. He is also a part of the team developing CovidScholar.
